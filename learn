@@ -15,6 +15,7 @@
         button.addEventListener('click', createParagraph);
       }
     });</title>
+  <script>
   </head>
   <body>
     <button>Click me</button>
